@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "fried egg（feat. 夏色花梨）",
+  "base_artist": "いもぴー",
+  "createdAt": "2026-01-13T13:10:57.893268Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "fried egg (feat. 夏色花梨)",
+      "artist": "いもぴー",
+      "has_synced": false,
+      "path": "select/pl_01_fried_egg_(feat._夏色花梨)_いもぴー.txt"
+    }
+  ]
+}
